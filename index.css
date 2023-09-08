@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+     }
+  
+  h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Tektur', cursive;
+    color:brown
+  }
+  
+  h2{
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 20px;
+  }
+  
+  
+  #img{
+    position: flex;
+    float: right;
+  }
+  
+  #pantalla {
+    width: 22%;
+    height: auto;
+    background-color: brown;
+    margin: 5% 100px;
+    padding: 15px;
+    border-radius: 6px;
+    }
+  
+  #pokemon{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+  } 
+  #boton{
+    background-color: coral;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 15px;
+    font-style: italic;
+    width: 80px;
+    color:green;
+    border-color: brown;
+  }
+  #container {
+    position: absolute;
+    top: 40%;
+    left: 550px;
+    width: 15%;
+    height: 300px;
+    background-color:brown;
+    padding: 15px;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 15px;
+  }
+  
+  .img-container{
+    margin: 5% 5%;
+    width: 100px;
+    background-color:beige;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 52px;
+  }
+  
+  p{
+    margin: 5% 5%;
+    font-size: 30px;
+    font-family: 'Tektur', cursive;
+    color: aquamarine
+  }
